@@ -2,50 +2,52 @@
 
 <item>
 <title>[COLOR lime]SUBTITULADAS[/COLOR]</title>
-<thumbnail>http://img.fenixzone.net/i/J8DwPEm.png</thumbnail>
-<fanart>http://img.fenixzone.net/i/mptOg36.png</fanart>
+<thumbnail>http://img.fenixzone.net/i/HT6Aj8U.png</thumbnail>
+<fanart>http://img.fenixzone.net/i/IvK1gUy.jpeg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/bernardoclon/The-Force/master/seriessubtituladas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/Men%C3%B9s/01.Lista-subtituladas.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR red]SERIES LATINO[/COLOR]</title>
-<thumbnail>http://img.fenixzone.net/i/t5RK6ZE.png</thumbnail>
-<fanart>http://img.fenixzone.net/i/mptOg36.png</fanart>
+<thumbnail>http://img.fenixzone.net/i/U50sWlt.png</thumbnail>
+<fanart>http://img.fenixzone.net/i/IvK1gUy.jpeg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/bernardoclon/The-Force/master/serieslatino.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR yellow]ANIME[/COLOR]</title>
-<thumbnail>http://img.fenixzone.net/i/0bMonU6.png</thumbnail>
-<fanart>http://img.fenixzone.net/i/mptOg36.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/bernardoclon/The-Force/master/seriesanime.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR darkorange]CARTOONS[/COLOR]</title>
-<thumbnail>http://img.fenixzone.net/i/V2ruDcI.png</thumbnail>
-<fanart>http://img.fenixzone.net/i/mptOg36.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/bernardoclon/The-Force/master/cartoons.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]PELICULAS[/COLOR]</title>
-<thumbnail>http://img.fenixzone.net/i/Hua69Nf.png</thumbnail>
-<fanart>http://img.fenixzone.net/i/mptOg36.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/bernardoclon/The-Force/master/peliculas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/Men%C3%B9s/02.Lista-serieslatino.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR magenta]NOVELAS[/COLOR]</title>
-<thumbnail>http://img.fenixzone.net/i/ITWO2Jj.png</thumbnail>
-<fanart>http://img.fenixzone.net/i/mptOg36.png</fanart>
+<thumbnail>http://img.fenixzone.net/i/d5jJL4m.png</thumbnail>
+<fanart>http://img.fenixzone.net/i/IvK1gUy.jpeg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/bernardoclon/The-Force/master/novelas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/Men%C3%B9s/03.Lista-novelas.xml</externallink>
 </item>
+
+<item>
+<title>[COLOR darkorange]CARICATURAS[/COLOR]</title>
+<thumbnail>http://img.fenixzone.net/i/519LqAI.png</thumbnail>
+<fanart>http://img.fenixzone.net/i/IvK1gUy.jpeg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/Men%C3%B9s/04.Lista-caricaturas.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR slateblue]ANIME[/COLOR]</title>
+<thumbnail>http://img.fenixzone.net/i/tcLE7vw.png</thumbnail>
+<fanart>http://img.fenixzone.net/i/IvK1gUy.jpeg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/Men%C3%B9s/05.Lista-anime.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR goldenrod]PELICULAS[/COLOR]</title>
+<thumbnail>http://img.fenixzone.net/i/09Y2LzI.png</thumbnail>
+<fanart>http://img.fenixzone.net/i/IvK1gUy.jpeg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/Men%C3%B9s/06.Lista-peliculas.xml</externallink>
+</item>
+
+
 
 
